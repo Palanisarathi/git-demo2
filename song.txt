@@ -3,3 +3,4 @@ The song inthe mountain
 this is thrid line
 to commit amend
 this main line
+feature1 1
