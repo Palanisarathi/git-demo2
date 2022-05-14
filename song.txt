@@ -5,3 +5,4 @@ to commit amend
 new feature
 line 1
 line 2
+line 3
