@@ -8,3 +8,4 @@ feature1 2
 feature1 3
 feature1 4
 final
+check
