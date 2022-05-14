@@ -2,4 +2,3 @@ The song inthe mountain
  is second lin
 this is thrid line
 to commit amend
-this is the line to delete
